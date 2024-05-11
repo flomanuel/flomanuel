@@ -2,7 +2,7 @@
 
 - I"m a Business Information Systems Student (B.Sc.) @ Karlsruhe University of Applied Sciences
 
-[![flomanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=flomanuel)](https://github.com/anuraghazra/github-readme-stats)
+[![flomanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=flomanuel&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **flomanuel/flomanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
