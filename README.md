@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Florian
 
-- I"m a Business Information Systems Student (B.Sc.) @ Karlsruhe University of Applied Sciences
+- I"m a Computer Science Student (M.Sc.) @ Darmstadt University of Applied Sciences
 
 <!--
 **flomanuel/flomanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
